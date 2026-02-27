@@ -17,5 +17,8 @@
     { "source": "/contact", "destination": "/contact.html" },
     { "source": "/features", "destination": "/features.html" },
     { "source": "/pricing", "destination": "/pricing.html" }
-  ]
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  }
 }
